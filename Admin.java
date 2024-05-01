@@ -74,7 +74,7 @@ public class Admin {
 
     public static void viewMenu(){
         viewRestaurant();
-        System.out.print("Masukan restorant yang diinginkan : ");int pilih = scanner.nextInt();
+        System.out.print("Masukan id restorant yang diinginkan : ");int pilih = scanner.nextInt();
         if(restaurants.size() > 0) {
             for(int a = 0; a <restaurants.size(); a++) {
                 int res=restaurants.get(a).getId();
