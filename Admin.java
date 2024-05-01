@@ -13,7 +13,7 @@ public class Admin {
         System.out.println("| 1. Lihat Restaurant       ");
         System.out.println("| 2. Tambah Restaurant      ");
         System.out.println("| 3. Hapus Restauran        ");
-        System.out.println("| 4. Kemabli ke login       ");
+        System.out.println("| 4. Kembali ke login       ");
         System.out.println("============================");
     }
 
