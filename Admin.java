@@ -18,7 +18,7 @@ public class Admin {
         System.out.println("|3. Hapus Restaurant       |");
         System.out.println("|4. Kembali Ke Login       |");
         System.out.println("|5. Logout                 |");
-        System.out.println("----------------------------");
+        System.out.println("|__________________________|");
     }
     public static void addRestaurant(){
         System.out.println("Masukkan Id Restaurant : ");
